@@ -1,6 +1,7 @@
-package com.cardpay.pbccrcReport.pojo;
+﻿package com.cardpay.pbccrcReport.pojo;
 
 import com.wicresoft.jrad.base.database.model.ModelParam;
+
 
 /**
  * 配偶信息
